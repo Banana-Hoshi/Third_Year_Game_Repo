@@ -75,3 +75,9 @@ Unreal_Project/Project_Skate/DerivedDataCache/*
 *.bin
 *.log
 Unreal_Project/Project_Skate/Saved/*
+Unreal_Project/Project_Skate/Saved/AutoScreenshot.png
+Unreal_Project/Project_Skate/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+Unreal_Project/Project_Skate/Saved/Logs/Project_Skate-backup-2023.09.22-23.08.06.log
+Unreal_Project/Project_Skate/Saved/Logs/Project_Skate.log
+Unreal_Project/Project_Skate/Saved/Logs/Project_Skate_2.log
+Unreal_Project/Project_Skate/Intermediate/CachedAssetRegistry_0.bin
