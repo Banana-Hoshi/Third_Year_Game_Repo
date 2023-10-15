@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Workspace" id="{a0d1209e-339c-4208-a518-b8e2f4130c79}">
+		<property name="builtBanksOutputDirectory">
+			<value>C:/Users/queca/Desktop/ThirdYearGame/Third_Year_Game_Repo/Unreal_Project/Project_Skate/Content/FMOD</value>
+		</property>
+		<relationship name="masterEventFolder">
+			<destination>{e2bdd79f-686e-4a04-8fb9-766d827f70ba}</destination>
+		</relationship>
+		<relationship name="masterTagFolder">
+			<destination>{e69fe540-08ac-42c3-94c4-c1141a7f51b0}</destination>
+		</relationship>
+		<relationship name="masterEffectPresetFolder">
+			<destination>{d26ee40a-8671-4a0d-9eab-8008e292677f}</destination>
+		</relationship>
+		<relationship name="masterParameterPresetFolder">
+			<destination>{53e1b001-785f-42bb-ae20-1931af2e1ea0}</destination>
+		</relationship>
+		<relationship name="masterBankFolder">
+			<destination>{91ad1946-8441-48aa-9a18-6f043fb79387}</destination>
+		</relationship>
+		<relationship name="masterSandboxFolder">
+			<destination>{ae2c67f1-539e-4287-92ec-73f50d72cc3c}</destination>
+		</relationship>
+		<relationship name="masterAssetFolder">
+			<destination>{aee11a95-c394-4baf-82f3-8a3b0a23fc5c}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{1d864fd4-a1b8-4dee-8407-89ac5eae3def}</destination>
+		</relationship>
+		<relationship name="profilerSessionFolder">
+			<destination>{9c2ad121-356e-43ca-87ce-9e06f5f64f20}</destination>
+		</relationship>
+		<relationship name="platforms">
+			<destination>{8a296b9e-b2cc-48a4-8667-89ff0c6745e8}</destination>
+		</relationship>
+	</object>
+</objects>
