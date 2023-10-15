@@ -74,3 +74,5 @@ Plugins/*/Intermediate/*
 Unreal_Project/Project_Skate/DerivedDataCache/*
 *.bin
 *.log
+
+Unreal_Project/Project_Skate_5_3/
