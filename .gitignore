@@ -42,23 +42,23 @@
 *.VC.opendb
 
 # Precompiled Assets
-SourceArt/**/*.png
-SourceArt/**/*.tga
+Unreal_Project/Project_Skate/SourceArt/**/*.png
+Unreal_Project/Project_Skate/SourceArt/**/*.tga
 
 # Binary Files
-Binaries/*
+Unreal_Project/Project_Skate/Binaries/*
 Plugins/*/Binaries/*
 
 # Builds
 Build/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
-!Build/*/
-Build/*/**
-!Build/*/PakBlacklist*.txt
+!Unreal_Project/Project_Skate/Build/*/
+Unreal_Project/Project_Skate/Build/*/**
+!Unreal_Project/Project_Skate/Build/*/PakBlacklist*.txt
 
 # Don't ignore icon files in Build
-!Build/**/*.ico
+!Unreal_Project/Project_Skate/Build/**/*.ico
 
 # Built data for maps
 *_BuiltData.uasset
