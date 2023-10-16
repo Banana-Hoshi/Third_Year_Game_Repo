@@ -47,7 +47,7 @@ Unreal_Project/Project_Skate/SourceArt/**/*.tga
 
 # Binary Files
 Unreal_Project/Project_Skate/Binaries/*
-Plugins/*/Binaries/*
+Unreal_Project/Project_Skate/Plugins/*/Binaries/*
 
 # Builds
 Build/*
