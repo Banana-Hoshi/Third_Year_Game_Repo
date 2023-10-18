@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{864b5935-2230-4a55-bfa5-f3d22ad1c33f}">
+		<property name="assetPath">
+			<value>Skates2 [2023-10-17 151558].wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.75</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{aee11a95-c394-4baf-82f3-8a3b0a23fc5c}</destination>
+		</relationship>
+	</object>
+</objects>
