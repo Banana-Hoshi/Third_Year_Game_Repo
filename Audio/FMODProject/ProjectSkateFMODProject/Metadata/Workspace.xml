@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Workspace" id="{a0d1209e-339c-4208-a518-b8e2f4130c79}">
 		<property name="builtBanksOutputDirectory">
-			<value>../../../Unreal_Project/Project_Skate/Content/FMOD/Banks</value>
+			<value>C:/Users/queca/Desktop/ThirdYearGame/Third_Year_Game_Repo/Unreal_Project/Project_Skate/Content/FMOD</value>
 		</property>
 		<relationship name="masterEventFolder">
 			<destination>{e2bdd79f-686e-4a04-8fb9-766d827f70ba}</destination>

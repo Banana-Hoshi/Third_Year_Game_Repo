@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{9ae1cd20-642a-4fcd-898a-f6d82b9a0cef}">
+		<property name="assetPath">
+			<value>11_DerbyJam_Drop_2B.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>7.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{aee11a95-c394-4baf-82f3-8a3b0a23fc5c}</destination>
+		</relationship>
+	</object>
+</objects>
