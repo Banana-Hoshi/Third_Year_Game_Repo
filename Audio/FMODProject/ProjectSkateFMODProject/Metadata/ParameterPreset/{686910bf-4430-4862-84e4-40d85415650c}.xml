@@ -12,17 +12,8 @@
 		</relationship>
 	</object>
 	<object class="GameParameter" id="{d5379aff-c3aa-43fd-baf7-3b8a0ba9a072}">
-		<property name="parameterType">
-			<value>2</value>
-		</property>
 		<property name="maximum">
 			<value>4</value>
-		</property>
-		<property name="enumerationLabels">
-			<value>Intro</value>
-			<value>Verse</value>
-			<value>BuildLoop</value>
-			<value>BuildDrop</value>
 		</property>
 		<property name="isGlobal">
 			<value>true</value>
