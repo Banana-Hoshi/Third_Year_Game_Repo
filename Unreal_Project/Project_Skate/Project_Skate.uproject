@@ -49,5 +49,8 @@
 			"Name": "FMODStudioNiagara",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
