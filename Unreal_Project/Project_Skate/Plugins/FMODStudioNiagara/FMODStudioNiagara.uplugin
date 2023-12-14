@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
-	"Version": 1,
-	"VersionName": "1.0",
+	"Version": 20220,
+	"VersionName": "2.02.20",
 	"FriendlyName": "FMOD Studio Niagara Integration",
 	"Description": "FMOD Studio with Niagara Integration.",
 	"Category": "Audio",
