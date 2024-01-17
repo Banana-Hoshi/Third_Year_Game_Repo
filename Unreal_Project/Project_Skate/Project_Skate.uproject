@@ -82,6 +82,10 @@
 		{
 			"Name": "OnlineSubsystemUtils",
 			"Enabled": false
+		},
+		{
+			"Name": "SoundUtilities",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
