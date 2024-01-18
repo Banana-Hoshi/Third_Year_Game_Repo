@@ -1,6 +1,0 @@
-{
-	"OutputFiles": [
-		"..\\..\\..\\x64\\UnrealGame\\Shipping\\SubstanceCore\\PCH.SubstanceCore.h.obj",
-		"..\\..\\..\\x64\\UnrealGame\\Shipping\\SubstanceCore\\Module.SubstanceCore.cpp.obj"
-	]
-}
