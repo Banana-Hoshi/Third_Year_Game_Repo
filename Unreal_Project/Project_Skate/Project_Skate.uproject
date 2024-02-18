@@ -99,6 +99,63 @@
 		{
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
+		},
+		{
+			"Name": "AnimationWarping",
+			"Enabled": true
+		},
+		{
+			"Name": "ApexDestruction",
+			"Enabled": true
+		},
+		{
+			"Name": "AsyncLoadingScreen",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/01f39767dc6b4290877f38365787cbf8"
+		},
+		{
+			"Name": "BlueprintStats",
+			"Enabled": true
+		},
+		{
+			"Name": "CryptoKeys",
+			"Enabled": false
+		},
+		{
+			"Name": "Flurry",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServicesEOS",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServicesEOSGS",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServicesNull",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineServicesOSSAdapter",
+			"Enabled": true
+		},
+		{
+			"Name": "OnlineSubsystemEOS",
+			"Enabled": true
+		},
+		{
+			"Name": "PlasticSourceControl",
+			"Enabled": false
+		},
+		{
+			"Name": "SocketSubsystemEOS",
+			"Enabled": true
+		},
+		{
+			"Name": "Soundscape",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
