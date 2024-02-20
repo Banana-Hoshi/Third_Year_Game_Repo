@@ -2,7 +2,7 @@
 
 FPlayerInfo::FPlayerInfo()
 {
-	username = "null";
+	
 }
 
 FPlayerInfo::~FPlayerInfo()
