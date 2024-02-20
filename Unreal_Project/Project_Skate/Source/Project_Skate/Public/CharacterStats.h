@@ -4,7 +4,7 @@
 #include "CharacterStats.generated.h"
 
 USTRUCT(BlueprintType)
-struct PROJECT_SKATE_API FCharacterStats
+struct PROJECT_SKATE_API FCharacterStats : public FTableRowBase
 {
 public:
 	GENERATED_BODY()

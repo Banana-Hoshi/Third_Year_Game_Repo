@@ -9,7 +9,7 @@
 #include "CharacterData.generated.h"
 
 USTRUCT(BlueprintType)
-struct PROJECT_SKATE_API FCharacterData
+struct PROJECT_SKATE_API FCharacterData : public FTableRowBase
 {
 public:
 	GENERATED_BODY()
