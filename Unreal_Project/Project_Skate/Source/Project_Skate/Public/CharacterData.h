@@ -6,6 +6,11 @@
 #include "Engine/Texture2D.h"
 #include "Engine/SkeletalMesh.h"
 #include "CharacterStats.h"
+#include "UObject/Object.h"
+#include "UObject/Class.h"
+#include "Engine/DataTable.h"
+#include "UObject/UnrealType.h"
+
 #include "CharacterData.generated.h"
 
 USTRUCT(BlueprintType)

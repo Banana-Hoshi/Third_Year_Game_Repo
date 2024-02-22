@@ -1,6 +1,10 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "UObject/Object.h"
+#include "UObject/Class.h"
+#include "Engine/DataTable.h"
+#include "UObject/UnrealType.h"
 #include "CharacterStats.generated.h"
 
 USTRUCT(BlueprintType)
