@@ -8,7 +8,7 @@
 #include "PlayerInfo.generated.h"
 
 USTRUCT(BlueprintType)
-struct PROJECT_SKATE_API FPlayerInfo 
+struct PROJECT_SKATE_API FPlayerInfo : public FTableRowBase
 {
 public:
 	GENERATED_BODY()
