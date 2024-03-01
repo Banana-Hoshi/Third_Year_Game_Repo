@@ -22,6 +22,9 @@ public:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	FCharacterData character;
 
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	int score;
+
 	FPlayerInfo();
 	~FPlayerInfo();
 };
